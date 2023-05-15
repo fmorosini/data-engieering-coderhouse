@@ -1,0 +1,1 @@
+inicializar con pip3 install -r requirements.txt
