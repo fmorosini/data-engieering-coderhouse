@@ -1,4 +1,3 @@
-geopandas
 psycopg
 pandas
 sqlalchemy
